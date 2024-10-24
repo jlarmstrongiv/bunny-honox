@@ -37,10 +37,10 @@
     "dist"
   ],
   "dependencies": {
-    "bunny-hono": "^0.0.0",
     "rollup-plugin-node-protocol-imports": "^0.0.0"
   },
   "peerDependencies": {
+    "bunny-hono": "^0.0.4",
     "hono": "^4.6.5",
     "honox": "^0.1.26",
     "vite": "^5.4.10"
