@@ -5,7 +5,7 @@
 ## Installation
 
 ```shell
-npm install bunny-honox
+npm install --save-dev bunny-honox
 ```
 
 ## Documentation
